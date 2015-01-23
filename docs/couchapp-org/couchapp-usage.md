@@ -115,8 +115,7 @@ Push a CouchApp to one or more
 
 ### pushapps
 
-Sends a folder of multiple CouchApps at once, similar to
-[push](push.md).
+Sends a folder of multiple CouchApps at once, similar to `push`.
 
     
     

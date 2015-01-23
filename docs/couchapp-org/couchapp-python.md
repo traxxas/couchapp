@@ -23,7 +23,7 @@ After creating a new couchapp, you will have a project structure that looks
 something like [this template project](https://github.com/jchris/proto). The following
 libraries are included with your new couchapp by default:
 
-#### [Evently](evently.md)
+#### Evently(evently.md)
 
 A declarative, couchdb friendly JQuery library for writing Javascript
 applications
